@@ -2,7 +2,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balerum03&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=balerum03&show_icons=true&hide_border=true&theme=radical" />
 
-<br><br><br><br><br>
+<br><br><br>
 
 ## Skills
 ### Technical:
@@ -13,13 +13,12 @@
 - ![](https://img.shields.io/badge/CODE-PostgreSQL-blue)
 
 ### Professional:
-- Mob Programming
-- Problem solving
-- Mentoring
-- Communication
+- ![](https://img.shields.io/badge/Professional-Mob%20Programming-blueviolet)
+- ![](https://img.shields.io/badge/Professional-Problem%20Solving-blueviolet)
+- ![](https://img.shields.io/badge/Professional-Mentoring-blueviolet)
+- ![](https://img.shields.io/badge/Professional-Communication-blueviolet)
 - Pair Programming
 
-Here are some ideas to get you started:
 ## 🌱 I’m currently learning:
 - ![](https://img.shields.io/badge/CODE-JavaScript-yellow)
 - ![](https://img.shields.io/badge/CODE-React-blue)
