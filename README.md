@@ -1,6 +1,6 @@
 ## Adan Fernandez Bonilla
 Full-Stack Web Developer 👋
-![alt text](Screenshot from 2021-01-27 15-45-01.png)
+![alt text](2021-01-27 15-45-01.png)
 <img align="left" src="https://github-readme-stats.vercel.app/api//?username=balerum03_theme=top-langs" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/?username=balerum03&show_icons=true&hide_border=true" />
 
