@@ -8,9 +8,14 @@
 ### Technical:
  ![](https://img.shields.io/badge/CODE-Ruby-red)
  ![](https://img.shields.io/badge/CODE-Ruby%20on%20Rails-red)
+ ![](https://img.shields.io/badge/CODE-Rspect-orange)
  ![](https://img.shields.io/badge/CODE-HTML5-red)
  ![](https://img.shields.io/badge/CODE-CSS3-orange)
- ![](https://img.shields.io/badge/CODE-PostgreSQL-blue)
+ ![](https://img.shields.io/badge/Tool-VScode-blueviolet)
+ ![](https://img.shields.io/badge/Tool-Atom-green)
+ ![](https://img.shields.io/badge/Tool-GitFlow-9fc)
+ ![](https://img.shields.io/badge/DB-SQL-blue)
+ ![](https://img.shields.io/badge/DB-PostgreSQL-blue)
 
 ### Professional:
  ![](https://img.shields.io/badge/Professional-Mob%20Programming-blueviolet)
