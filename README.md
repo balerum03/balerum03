@@ -17,7 +17,7 @@
 - ![](https://img.shields.io/badge/Professional-Problem%20Solving-blueviolet)
 - ![](https://img.shields.io/badge/Professional-Mentoring-blueviolet)
 - ![](https://img.shields.io/badge/Professional-Communication-blueviolet)
-- Pair Programming
+- ![](https://img.shields.io/badge/Professional-Pair%20Programming-blueviolet)
 
 ## 🌱 I’m currently learning:
 - ![](https://img.shields.io/badge/CODE-JavaScript-yellow)
