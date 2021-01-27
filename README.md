@@ -1,5 +1,5 @@
 ![screenshot](adantoshow.png)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balerum03&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balerum03&hide_border=true&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=balerum03&show_icons=true&hide_border=true&theme=radical" />
 
 <br><br><br>
